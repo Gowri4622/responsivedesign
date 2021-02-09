@@ -16,7 +16,6 @@ Validate the layout in various browsers.
 ### Step 6:
 Validate the HTML code.
 ### Step 7:
-### Step 9:
 Publish the website in the given URL.
 
 ## PROGRAM:
