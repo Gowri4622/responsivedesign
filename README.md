@@ -441,7 +441,7 @@ Publish the website in the given URL.
 
         <div class="row text-center" style="background-color:rgb(251, 174, 84);">
             <div class="col-12">
-                <p>Copyright © 2021 Silicon Private Limited, Developed by Gowri</p>
+                <p>Copyright © 2021 Copper Private Limited, Developed by Gowri</p>
             </div>
         </div>
     </div>
